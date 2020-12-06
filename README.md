@@ -1,3 +1,7 @@
+
+# Blog App
+Personal Blog app
+
 # Description
 
 Personal blog that display all the my personal thing the user is the only one to read and comment and the writer ni to create update and delete any post and delete the comment this application 
