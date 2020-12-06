@@ -17,5 +17,14 @@ when you singup by entering the email and login usingin the username this applic
 * HTML
 * Postgres SQLALchemy
 
+# Behavior Driven Development (BDD)
+* Create structure etc..
+* Create 4 classs are User,Post,comment and Quote
+* Create test file to test all your method
+* Create the manage file for used to run all your test
+* Create Start.sh to help you to run and open the server
+* Create a config file to link your project qith the database or any url link
+
+
 # Author
 Project by TUYIZERE Sandrine
