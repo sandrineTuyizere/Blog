@@ -11,6 +11,8 @@ when you singup by entering the email and login usingin the username this applic
 
 ## Technology used
 * Python3.6
+* terminal
+* ubuntu window
 
 # Author
 Project by TUYIZERE Sandrine
