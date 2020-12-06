@@ -25,6 +25,10 @@ when you singup by entering the email and login usingin the username this applic
 * Create Start.sh to help you to run and open the server
 * Create a config file to link your project qith the database or any url link
 
+# Run
+Use Terminal to open the server and the brouser to run this application
+
+
 
 # Author
 Project by TUYIZERE Sandrine
