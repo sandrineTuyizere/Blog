@@ -8,5 +8,9 @@ Personal blog that display all the my personal thing the user is the only one to
 
 when you singup by entering the email and login usingin the username this application will send you en email for you to welcome in this application.
 
+
+## Technology used
+* Python3.6
+
 # Author
 Project by TUYIZERE Sandrine
