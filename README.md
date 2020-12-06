@@ -13,6 +13,9 @@ when you singup by entering the email and login usingin the username this applic
 * Python3.6
 * terminal
 * ubuntu window
+* CSS
+* HTML
+* Postgres SQLALchemy
 
 # Author
 Project by TUYIZERE Sandrine
