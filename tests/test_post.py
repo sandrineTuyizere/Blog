@@ -32,17 +32,4 @@ class BlogTest(unittest.TestCase):
         got_post=Post.query.get(1)
         self.assertTrue(len(got_post)==1)
 
-    # def test_save_article(self):
-    #     '''
-    #     test saving in the db
-    #     '''
-    #     self.new_article.save_article()
-    #     self.assertTrue(len(Review.query.all())>0)
-
-    # def test_get_article_by_id(self):
-    #     '''
-    #     tests getting article by id
-    #     '''
-    #     self.new_article.save_article()
-    #     got_article = Article.query.get(1)
-    #     self.assertTrue(len(got_article)==1)
+    
